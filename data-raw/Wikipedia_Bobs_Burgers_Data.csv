@@ -1,277 +1,309 @@
-"","episode_overall","aired_date","year","season","episode","title","directed_by","written_by","us_viewers_millions"
-"1","1",2011-01-09,2011,1,"1","""Human Flesh""","Anthony Chun","Loren Bouchard & Jim Dauterive",9.38
-"2","2",2011-01-16,2011,1,"2","""Crawl Space""","Kyounghee Lim","Loren Bouchard & Jim Dauterive",5.07
-"3","3",2011-01-23,2011,1,"3","""Sacred Cow""","Jennifer Coyle","Nora Smith",4.81
-"4","4",2011-02-13,2011,1,"4","""Sexy Dance Fighting""","Anthony Chun","Steven Davis & Kelvin Yu",4.19
-"5","5",2011-02-20,2011,1,"5","""Hamburger Dinner Theater""","Wes Archer","Dan Fybel & Rich Rinaldi",4.87
-"6","6",2011-03-06,2011,1,"6","""Sheesh! Cab, Bob?""","Jennifer Coyle","Jon Schroeder",4.91
-"7","7",2011-03-13,2011,1,"7","""Bed & Breakfast""","Boohwan Lim","Holly Schlesinger",4.1
-"8","8",2011-03-20,2011,1,"8","""Art Crawl""","Kyounghee Lim","Lizzie & Wendy Molyneux",4.43
-"9","9",2011-03-27,2011,1,"9","""Spaghetti Western and Meatballs""","Wes Archer","Kit Boss",4.65
-"10","10",2011-04-10,2011,1,"10","""Burger War""","Boohwan Lim","Loren Bouchard",4
-"11","11",2011-05-08,2011,1,"11","""Weekend at Mort's""","Anthony Chun","Scott Jacobson",4.26
-"12","12",2011-05-15,2011,1,"12","""Lobsterfest""","Boohwan Lim","Aron Abrams & Greg Thompson",4.68
-"13","13",2011-05-22,2011,1,"13","""Torpedo""","Kyounghee Lim","Dan Fybel & Rich Rinaldi",4.31
-"14","14",2012-03-11,2012,2,"1","""The Belchies""","Boohwan & Kyounghee Lim","Jon Schroeder",4.04
-"15","15",2012-03-18,2012,2,"2","""Bob Day Afternoon""","Wes Archer","Dan Fybel & Rich Rinaldi",4.4
-"16","16",2012-03-25,2012,2,"3","""Synchronized Swimming""","Anthony Chun","Holly Schlesinger",3.97
-"17","17",2012-04-01,2012,2,"4","""Burgerboss""","Jennifer Coyle","Scott Jacobson",3.66
-"18","18",2012-04-15,2012,2,"5","""Food Truckin'""","Bernard Derriman","Lizzie & Wendy Molyneux",3.9
-"19","19",2012-04-29,2012,2,"6","""Dr. Yap""","Anthony Chun","Steven Davis & Kelvin Yu",3.92
-"20","20",2012-05-06,2012,2,"7","""Moody Foodie""","Boohwan & Kyounghee Lim","Steven Davis & Kelvin Yu",3.72
-"21","21",2012-05-13,2012,2,"8","""Bad Tina""","Jennifer Coyle","Holly Schlesinger",3.69
-"22","22",2012-05-20,2012,2,"9","""Beefsquatch""","Wes Archer","Nora Smith",3.57
-"23","23",2012-09-30,2012,3,"1","""Ear-sy Rider""","Anthony Chun","Dan Fybel & Rich Rinaldi",5.46
-"24","24",2012-10-07,2012,3,"2","""Full Bars""","Boohwan & Kyounghee Lim","Steven Davis & Kelvin Yu",4.89
-"25","25",2012-11-04,2012,3,"3","""Bob Fires the Kids""","Boohwan & Kyounghee Lim","Lizzie & Wendy Molyneux",3.92
-"26","26",2012-11-11,2012,3,"4","""Mutiny on the Windbreaker""","John Rice","Kit Boss",4.89
-"27","27",2012-11-18,2012,3,"5","""An Indecent Thanksgiving Proposal""","Tyree Dillihay","Lizzie & Wendy Molyneux",3.94
-"28","28",2012-11-25,2012,3,"6","""The Deepening""","Bernard Derriman","Greg Thompson",4.66
-"29","29",2012-12-02,2012,3,"7","""Tinarannosaurus Wrecks""","Wes Archer","Jon Schroeder",3.97
-"30","30",2012-12-09,2012,3,"8","""The Unbearable Like-Likeness of Gene""","Don MacKinnon","Holly Schlesinger",4.55
-"31","31",2012-12-16,2012,3,"9","""God Rest Ye Merry Gentle-Mannequins""","Anthony Chun","Kit Boss",3.09
-"32","32",2013-01-06,2013,3,"10","""Mother Daughter Laser Razor""","Jennifer Coyle","Nora Smith",6.4
-"33","33",2013-01-13,2013,3,"11","""Nude Beach""","Wes Archer","Scott Jacobson",4.44
-"34","34",2013-01-27,2013,3,"12","""Broadcast Wagstaff School News""","Jennifer Coyle","Greg Thompson",4.12
-"35","35",2013-02-10,2013,3,"13","""My Fuzzy Valentine""","Boohwan & Kyounghee Lim","Dan Fybel & Rich Rinaldi",3.45
-"36","36",2013-02-17,2013,3,"14","""Lindapendent Woman""","Don MacKinnon","Mike Benner",3.93
-"37","37",2013-03-03,2013,3,"15","""O.T.: The Outside Toilet""","Anthony Chun","Lizzie & Wendy Molyneux",3.67
-"38","38",2013-03-10,2013,3,"16","""Topsy""","Tyree Dillihay","Loren Bouchard & Nora Smith",3.85
-"39","39",2013-03-17,2013,3,"17","""Two for Tina""","Wes Archer","Scott Jacobson",3.62
-"40","40",2013-03-24,2013,3,"18","""It Snakes a Village""","Jennifer Coyle","Kit Boss",3.76
-"41","41",2013-04-14,2013,3,"19","""Family Fracas""","Don MacKinnon","Holly Schlesinger",3.45
-"42","42",2013-04-21,2013,3,"20","""The Kids Run the Restaurant""","Boohwan & Kyounghee Lim","Steven Davis & Kelvin Yu",3.74
-"43","43",2013-04-28,2013,3,"21","""Boyz 4 Now""","Anthony Chun","Lizzie & Wendy Molyneux",3.5
-"44","44",2013-05-05,2013,3,"22","""Carpe Museum""","Tyree Dillihay","Jon Schroeder",3.96
-"45","45",2013-05-12,2013,3,"23","""The Unnatural""","Wes Archer","Greg Thompson",3.38
-"46","46",2013-09-29,2013,4,"1","""A River Runs Through Bob""","Jennifer Coyle","Dan Fybel & Rich Rinaldi",4.48
-"47","47",2013-10-06,2013,4,"2","""Fort Night""","Boohwan Lim & Kyounghee Lim","Mike Olsen",4.21
-"48","48",2013-11-03,2013,4,"3","""Seaplane!""","Jennifer Coyle","Dan Fybel & Rich Rinaldi",3.75
-"49","49",2013-11-10,2013,4,"4","""My Big Fat Greek Bob""","Don MacKinnon","Scott Jacobson",3.17
-"50","50",2013-11-24,2013,4,"5","""Turkey in a Can""","Boohwan Lim & Kyounghee Lim","Lizzie Molyneux & Wendy Molyneux",4.08
-"51","51",2013-12-01,2013,4,"6","""Purple Rain-Union""","Tyree Dillihay","Loren Bouchard & Nora Smith",3.39
-"52","52",2013-12-08,2013,4,"7","""Bob and Deliver""","Don MacKinnon","Greg Thompson",4.6
-"53","53",2013-12-15,2013,4,"8","""Christmas in the Car""","Bernard Derriman & Jennifer Coyle","Steven Davis & Kelvin Yu",5.57
-"54","54",2014-01-05,2014,4,"9","""Slumber Party""","Jennifer Coyle","Scott Jacobson",6.35
-"55","55",2014-01-12,2014,4,"10","""Presto Tina-o""","Chris Song","Kit Boss",4.2
-"56","56",2014-01-26,2014,4,"11","""Easy Com-mercial, Easy Go-mercial""","Tyree Dillihay","Jon Schroeder",3.24
-"57","57",2014-03-09,2014,4,"12","""The Frond Files""","Jennifer Coyle","Lizzie Molyneux & Wendy Molyneux",2.21
-"58","58",2014-03-16,2014,4,"13","""Mazel-Tina""","Brian Loschiavo","Holly Schlesinger",2.44
-"59","59",2014-03-23,2014,4,"14","""Uncle Teddy""","Don MacKinnon","Dan Fybel & Rich Rinaldi",2.45
-"60","60",2014-03-30,2014,4,"15","""The Kids Rob a Train""","Boohwan Lim & Kyounghee Lim","Steven Davis & Kelvin Yu",2.26
-"61","61",2014-04-06,2014,4,"16","""I Get Psy-chic Out of You""","Chris Song","Jon Schroeder",2.27
-"62","62",2014-04-13,2014,4,"17","""The Equestranauts""","Tyree Dillihay","Dan Mintz",1.83
-"63","63",2014-04-20,2014,4,"18","""Ambergris""","Don MacKinnon","Scott Jacobson",1.52
-"64","64",2014-04-27,2014,4,"19","""The Kids Run Away""","Boohwan Lim & Kyounghee Lim","Rich Rinaldi",2.26
-"65","65",2014-05-04,2014,4,"20","""Gene It On""","Chris Song","Greg Thompson",2.23
-"66","66",2014-05-11,2014,4,"21","""Wharf Horse (or How Bob Saves/Destroys the Town – Part I)""","Brian Loschiavo","Nora Smith",1.97
-"67","67",2014-05-18,2014,4,"22","""World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town – Part II)""","Jennifer Coyle","Lizzie Molyneux & Wendy Molyneux",1.95
-"68","68",2014-10-05,2014,5,"1","""Work Hard or Die Trying, Girl""","Jennifer Coyle","Nora Smith",3.14
-"69","69",2014-11-02,2014,5,"2","""Tina and the Real Ghost""","Boohwan Lim & Kyounghee Lim","Steven Davis & Kelvin Yu",2.89
-"70","70",2014-11-16,2014,5,"3","""Friends with Burger-fits""","Tyree Dillihay","Dan Fybel",3.35
-"71","71",2014-11-23,2014,5,"4","""Dawn of the Peck""","Tyree Dillihay","Lizzie Molyneux & Wendy Molyneux",1.9
-"72","72",2014-11-30,2014,5,"5","""Best Burger""","Don MacKinnon","Mike Benner",2.23
-"73","73",2014-12-07,2014,5,"6","""Father of the Bob""","Chris Song","Steven Davis & Kelvin Yu",3.18
-"74","74",2014-12-14,2014,5,"7","""Tina Tailor Soldier Spy""","Don MacKinnon","Holly Schlesinger",2.54
-"75","75",2015-01-04,2015,5,"8","""Midday Run""","Ian Hamilton","Scott Jacobson",3.95
-"76","76",2015-01-11,2015,5,"9","""Speakeasy Rider""","Jennifer Coyle","Rich Rinaldi",3.34
-"77","77",2015-01-25,2015,5,"10","""Late Afternoon in the Garden of Bob and Louise""","Boohwan Lim & Kyounghee Lim","Jon Schroeder",2.49
-"78","78",2015-02-08,2015,5,"11","""Can't Buy Me Math""","Tyree Dillihay","Dan Fybel",1.94
-"79","79",2015-02-15,2015,5,"12","""The Millie-churian Candidate""","Don MacKinnon","Greg Thompson",2.01
-"80","80",2015-03-01,2015,5,"13","""The Gayle Tales""","Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",3.03
-"81","81",2015-03-08,2015,5,"14","""L'il Hard Dad""","Chris Song","Nora Smith",2.56
-"82","82",2015-03-15,2015,5,"15","""Adventures in Chinchilla-sitting""","Cecilia Aranovich","Mike Benner",2.24
-"83","83",2015-03-22,2015,5,"16","""The Runway Club""","Jennifer Coyle","Steven Davis & Kelvin Yu",2.21
-"84","84",2015-04-26,2015,5,"17","""Itty Bitty Ditty Committee""","Bernard Derriman","Holly Schlesinger",2.04
-"85","85",2015-05-03,2015,5,"18","""Eat, Spray, Linda""","Tyree Dillihay","Jon Schroeder",2.24
-"86","86",2015-05-10,2015,5,"19","""Housetrap""","Jennifer Coyle & Bernard Derriman","Dan Fybel",2.47
-"87","87",2015-05-17,2015,5,"20","""Hawk & Chick""","Tyree Dillihay","Rich Rinaldi",1.95
-"88","88",2015-05-17,2015,5,"21","""The Oeder Games""","Don MacKinnon","Scott Jacobson",2.44
-"89","89",2015-09-27,2015,6,"1","""Sliding Bobs""","Don MacKinnon","Greg Thompson",2.51
-"90","90",2015-10-11,2015,6,"2","""The Land Ship""","Jennifer Coyle","Holly Schlesinger & H. Jon Benjamin",2.19
-"91","91",2015-10-18,2015,6,"3","""The Hauntening""","Jennifer Coyle","Steven Davis & Kelvin Yu",2.09
-"92","92",2015-11-08,2015,6,"4","""Gayle Makin' Bob Sled""","Tyree Dillihay","Lizzie Molyneux & Wendy Molyneux",3.13
-"93","93",2015-11-15,2015,6,"5","""Nice-Capades""","Chris Song","Dan Fybel",2.27
-"94","94",2016-01-17,2016,6,"6","""The Cook, the Steve, the Gayle, & Her Lover""","Tyree Dillihay","Nora Smith",2.26
-"95","95",2016-02-14,2016,6,"7","""The Gene and Courtney Show""","Chris Song","Rich Rinaldi",2.05
-"96","96",2016-02-21,2016,6,"8","""Sexy Dance Healing""","Chris Song & Bernard Derriman","Rich Rinaldi",2.29
-"97","97",2016-03-06,2016,6,"9","""Sacred Couch""","Brian Loschiavo","Scott Jacobson",2.64
-"98","98",2016-03-13,2016,6,"10","""Lice Things Are Lice""","Brian Loschiavo","Greg Thompson",2.28
-"99","99",2016-04-03,2016,6,"11","""House of 1000 Bounces""","Tyree Dillihay","Mike Benner",2.05
-"100","100",2016-04-03,2016,6,"12","""Stand by Gene""","Tyree Dillihay","Jon Schroeder",1.99
-"101","101",2016-04-10,2016,6,"13","""Wag the Hog""","Brian Loschiavo","Holly Schlesinger",2.35
-"102","102",2016-04-17,2016,6,"14","""The Hormone-iums""","Chris Song","Lizzie Molyneux & Wendy Molyneux",2.18
-"103","103",2016-04-24,2016,6,"15","""Pro Tiki/Con Tiki""","Brian Loschiavo","Jon Schroeder",2.35
-"104","104",2016-05-08,2016,6,"16","""Bye Bye Boo Boo""","Tyree Dillihay","Scott Jacobson",2.31
-"105","105",2016-05-15,2016,6,"17","""The Horse Rider-er""","Tyree Dillihay","Nora Smith",2.27
-"106","106",2016-05-22,2016,6,"18","""Secret Admiral-irer""","Brian Loschiavo","Holly Schlesinger & H. Jon Benjamin",2.23
-"107","107",2016-05-22,2016,6,"19","""Glued, Where's My Bob?""","Bernard Derriman","Steven Davis & Kelvin Yu",2.04
-"108","108",2016-09-25,2016,7,"1","""Flu-ouise""","Tyree Dillihay","Nora Smith",2.6
-"109","109",2016-10-09,2016,7,"2","""Sea Me Now""","Chris Song","Dan Fybel",2.79
-"110","110",2016-10-23,2016,7,"3","""Teen-a Witch""","Chris Song","Holly Schlesinger",3.01
-"111","111",2016-11-06,2016,7,"4","""They Serve Horses, Don't They?""","Tyree Dillihay","Steven Davis & Kelvin Yu",2.42
-"112","112",2016-11-20,2016,7,"5","""Large Brother, Where Fart Thou?""","Chris Song","Lizzie Molyneux & Wendy Molyneux",2.35
-"113","113",2016-11-20,2016,7,"6","""The Quirkducers""","Mauricio Pardo","Steven Davis & Kelvin Yu",2.46
-"114","114",2016-11-27,2016,7,"7","""The Last Gingerbread House on the Left""","Chris Song","Nora Smith",2.44
-"115","115",2017-01-08,2017,7,"8","""Ex Mach Tina""","Brian Loschiavo","Greg Thompson",3.58
-"116","116",2017-02-12,2017,7,"9","""Bob Actually""","Chris Song","Steven Davis & Kelvin Yu",1.67
-"117","117",2017-02-19,2017,7,"10","""There's No Business Like Mr. Business Business""","Tyree Dillihay","Lizzie Molyneux & Wendy Molyneux",1.97
-"118","118",2017-03-05,2017,7,"11","""A Few 'Gurt Men""","Tyree Dillihay","Jon Schroeder",1.77
-"119","119",2017-03-12,2017,7,"12","""Like Gene for Chocolate""","Brian Loschiavo","Rich Rinaldi",1.82
-"120","120",2017-03-19,2017,7,"13","""The Grand Mama-Pest Hotel""","Chris Song","Scott Jacobson",1.93
-"121","121",2017-03-26,2017,7,"14","""Aquaticism""","Brian Loschiavo","Dan Fybel",1.86
-"122","122",2017-03-26,2017,7,"15","""Ain't Miss Debatin'""","Mauricio Pardo","Greg Thompson",1.86
-"123","123",2017-04-02,2017,7,"16","""Eggs for Days""","Brian Loschiavo","Lizzie Molyneux & Wendy Molyneux",1.52
-"124","124",2017-04-23,2017,7,"17","""Zero Larp Thirty""","Tyree Dillihay","Rich Rinaldi",1.58
-"125","125",2017-04-23,2017,7,"18","""The Laser-inth""","Mauricio Pardo","Scott Jacobson",1.88
-"126","126",2017-04-30,2017,7,"19","""Thelma & Louise Except Thelma is Linda""","Brian Loschiavo","Jon Schroeder",1.59
-"127","127",2017-05-07,2017,7,"20","""Mom, Lies, and Videotapes""","Chris Song","Dan Fybel",2.02
-"128","128",2017-05-21,2017,7,"21","""Paraders of the Lost Float""","Bernard Derriman","Steven Davis",1.61
-"129","129",2017-06-11,2017,7,"22","""Into the Mild""","Tyree Dillihay","Kelvin Yu",1.52
-"130","130",2017-10-01,2017,8,"1","""Brunchsquatch""","Mauricio Pardo & Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",2.93
-"131","131",2017-10-15,2017,8,"2","""The Silence of the Louise""","Chris Song","Greg Thompson",2.43
-"132","132",2017-10-22,2017,8,"3","""The Wolf of Wharf Street""","Mauricio Pardo","Lizzie Molyneux & Wendy Molyneux",3.02
-"133","133",2017-11-05,2017,8,"4","""Sit Me Baby One More Time""","Brian Loschiavo","Nora Smith",2.89
-"134","134",2017-11-19,2017,8,"5","""Thanks-hoarding""","Tyree Dillihay","Jon Schroeder",2.37
-"135","135",2017-12-10,2017,8,"6","""The Bleakening""","Brian Loschiavo","Steven Davis",3.17
-"136","136",2017-12-10,2017,8,"7","""The Bleakening""","Chris Song","Kelvin Yu",3.17
-"137","137",2018-01-14,2018,8,"8","""V for Valentine-detta""","Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",4.76
-"138","138",2018-03-11,2018,8,"9","""Y Tu Ga-Ga Tambien""","Brian Loschiavo","Scott Jacobson",1.84
-"139","139",2018-03-18,2018,8,"10","""The Secret Ceramics Room of Secrets""","Tyree Dillihay","Dan Fybel",1.72
-"140","140",2018-03-25,2018,8,"11","""Sleeping with the Frenemy""","Brian Loschiavo","Greg Thompson",1.74
-"141","141",2018-04-01,2018,8,"12","""The Hurt Soccer""","Damon Wong","Rachel Hastings",1.54
-"142","142",2018-04-08,2018,8,"13","""Cheer Up, Sleepy Gene""","Tyree Dillihay","Teleplay by : Holly SchlesingerStory by : H. Jon Benjamin & Holly Schlesinger",1.74
-"143","143",2018-04-15,2018,8,"14","""The Trouble with Doubles""","Ian Hamilton","Holly Schlesinger",1.83
-"144","144",2018-04-22,2018,8,"15","""Go Tina on the Mountain""","Tyree Dillihay","Rich Rinaldi",1.66
-"145","145",2018-04-29,2018,8,"16","""Are You There Bob? It's Me, Birthday""","Tyree Dillihay","Kelvin Yu",1.91
-"146","146",2018-05-06,2018,8,"17","""Boywatch""","Mauricio Pardo","Rich Rinaldi",1.56
-"147","147",2018-05-13,2018,8,"18","""As I Walk Through the Alley of the Shadow of Ramps""","Chris Song","Scott Jacobson",1.56
-"148","148",2018-05-13,2018,8,"19","""Mo Mommy, Mo Problems""","Ian Hamilton","Steven Davis",1.88
-"149","149",2018-05-20,2018,8,"20","""Mission Impos-slug-ble""","Chris Song","Nora Smith",1.65
-"150","150",2018-05-20,2018,8,"21","""Something Old, Something New, Something Bob Caters for You""","Chris Song","Jon Schroeder",1.62
-"151","151",2018-09-30,2018,9,"1","""Just One of the Boyz 4 Now for Now""","Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",2.47
-"152","152",2018-10-07,2018,9,"2","""The Taking of Funtime One Two Three""","Chris Song","Justin Hook",3.08
-"153","153",2018-10-14,2018,9,"3","""Tweentrepreneurs""","Ryan Mattos","Greg Thompson",2.14
-"154","154",2018-10-21,2018,9,"4","""Nightmare on Ocean Avenue Street""","Tyree Dillihay","Dan Fybel",2.8
-"155","155",2018-11-04,2018,9,"5","""Live and Let Fly""","Chris Song","Rich Rinaldi",3.16
-"156","156",2018-11-11,2018,9,"6","""Bobby Driver""","Ryan Mattos","Scott Jacobson",2.23
-"157","157",2018-11-18,2018,9,"7","""I Bob Your Pardon""","Chris Song","Nora Smith",2.91
-"158","158",2018-11-25,2018,9,"8","""Roller? I Hardly Know Her!""","Kev Wotton","Lizzie Molyneux & Wendy Molyneux",1.97
-"159","159",2018-12-02,2018,9,"9","""UFO No You Didn't""","Tyree Dillihay","Steven Davis",2.99
-"160","160",2018-12-09,2018,9,"10","""Better Off Sled""","Ian Hamilton","Holly Schlesinger",4.35
-"161","161",2019-01-06,2019,9,"11","""Lorenzo's Oil? No, Linda's""","Chris Song","Jon Schroeder",2.21
-"162","162",2019-01-13,2019,9,"12","""The Helen Hunt""","Ryan Mattos","Dan Fybel",4.89
-"163","163",2019-02-10,2019,9,"13","""Bed, Bob & Beyond""","Ian Hamilton","Kelvin Yu",1.66
-"164","164",2019-02-17,2019,9,"14","""Every Which Way but Goose""","Kev Wotton","Holly Schlesinger",2.18
-"165","165",2019-03-03,2019,9,"15","""The Fresh Princ-ipal""","Tyree Dillihay","Greg Thompson",1.98
-"166","166",2019-03-10,2019,9,"16","""Roamin' Bob-iday""","Ian Hamilton","Lizzie Molyneux-Logelin & Wendy Molyneux",2
-"167","167",2019-03-17,2019,9,"17","""What About Blob?""","Chris Song","Rich Rinaldi",2.08
-"168","168",2019-03-24,2019,9,"18","""If You Love It So Much, Why Don't You Marionette?""","Ryan Mattos","Katie Crown",2.03
-"169","169",2019-04-07,2019,9,"19","""Long Time Listener, First Time Bob""","Ian Hamilton","Scott Jacobson",1.76
-"170","170",2019-04-28,2019,9,"20","""The Gene Mile""","Tyree Dillihay","Steven Davis",1.84
-"171","171",2019-05-05,2019,9,"21","""P.T.A. It Ain't So""","Ian Hamilton","Kelvin Yu",1.58
-"172","172",2019-05-12,2019,9,"22","""Yes Without My Zeke""","Chris Song","Jon Schroeder",1.48
-"173","173",2019-09-29,2019,10,"1","""The Ring (But Not Scary)""","Mario D'Anna","Lizzie Molyneux & Wendy Molyneux",1.82
-"174","174",2019-10-06,2019,10,"2","""Boys Just Wanna Have Fungus""","Ryan Mattos","Dan Fybel",2.34
-"175","175",2019-10-13,2019,10,"3","""Motor, She Boat""","Tom Riggin","Holly Schlesinger",1.64
-"176","176",2019-10-20,2019,10,"4","""Pig Trouble in Little Tina""","Chris Song","Nora Smith",2.45
-"177","177",2019-11-03,2019,10,"5","""Legends of the Mall""","Matthew Long","Greg Thompson",1.51
-"178","178",2019-11-10,2019,10,"6","""The Hawkening: Look Who's Hawking Now!""","Mario D'Anna","Rich Rinaldi",2.06
-"179","179",2019-11-17,2019,10,"7","""Land of the Loft""","Tom Riggin","Steven Davis",1.88
-"180","180",2019-11-24,2019,10,"8","""Now We're Not Cooking with Gas""","Ryan Mattos","Katie Crown",2.29
-"181","181",2019-12-01,2019,10,"9","""All That Gene""","Mathew Long","Kelvin Yu",1.6
-"182","182",2019-12-15,2019,10,"10","""Have Yourself a Maily Linda Christmas""","Chris Song","Scott Jacobson",2.41
-"183","183",2020-01-12,2020,10,"11","""Drumforgiven""","Mario D'Anna","Jon Schroeder",5.76
-"184","184",2020-02-16,2020,10,"12","""A Fish Called Tina""","Ryan Mattos","Dan Fybel",1.51
-"185","185",2020-02-23,2020,10,"13","""Three Girls and a Little Wharfy""","Tom Riggin","Holly Schlesinger",1.58
-"186","186",2020-03-01,2020,10,"14","""Wag the Song""","Chris Song","Greg Thompson",1.43
-"187","187",2020-03-08,2020,10,"15","""Yurty Rotten Scoundrels""","Tom Riggin","Katie Crown",1.28
-"188","188",2020-03-15,2020,10,"16","""Flat-Top o' the Morning to Ya""","Ryan Mattos","Rich Rinaldi",1.44
-"189","189",2020-03-22,2020,10,"17","""Just the Trip""","Chris Song","Lizzie Molyneux & Wendy Molyneux",1.31
-"190","190",2020-04-19,2020,10,"18","""Tappy Tappy Tappy Tap Tap Tap""","Ryan Mattos","Jon Schroeder",1.36
-"191","191",2020-04-26,2020,10,"19","""The Handyman Can""","Tom Riggin","Kelvin Yu",1.29
-"192","192",2020-05-03,2020,10,"20","""Poops!... I Didn't Do It Again""","Chris Song","Steven Davis",1.17
-"193","193",2020-05-10,2020,10,"21","""Local She-ro""","Ryan Mattos","Scott Jacobson",1.04
-"194","194",2020-05-17,2020,10,"22","""Prank You for Being a Friend""","Tom Riggin","Katie Crown",1.28
-"195","195",2020-09-27,2020,11,"1","""Dream a Little Bob of Bob""","Simon Chong","Dan Fybel",1.77
-"196","196",2020-10-04,2020,11,"2","""Worms of In-Rear-ment""","Chris Song","Nora Smith",1.12
-"197","197",2020-10-11,2020,11,"3","""Copa-Bob-bana""","Ryan Mattos","Holly Schlesinger",1.26
-"198","198",2020-11-01,2020,11,"4","""Heartbreak Hotel-oween""","Chris Song","Rich Rinaldi",1.9
-"199","199",2020-11-08,2020,11,"5","""Fast Time Capsules at Wagstaff School""","Tom Riggin","Greg Thompson",1.41
-"200","200",2020-11-15,2020,11,"6","""Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids""","Matthew Long","Steven Davis",1.79
-"201","201",2020-11-22,2020,11,"7","""Diarrhea of a Poopy Kid""","Tom Riggin","Lizzie Molyneux-Logelin & Wendy Molyneux",1.77
-"202","202",2020-11-29,2020,11,"8","""The Terminalator II: Terminals of Endearment""","Ryan Mattos","Kelvin Yu",1.23
-"203","203",2020-12-06,2020,11,"9","""Mommy Boy""","Simon Chong","Jon Schroeder",1.25
-"204","204",2020-12-13,2020,11,"10","""Yachty or Nice""","Chris Song","Scott Jacobson",1.81
-"205","205",2021-02-21,2021,11,"11","""Romancing the Beef""","Tom Riggin","Greg Thompson",1.24
-"206","206",2021-02-28,2021,11,"12","""Die Card, or Card Trying""","Matthew Long","Katie Crown",1.09
-"207","207",2021-03-07,2021,11,"13","""An Incon-Wheelie-ent Truth""","Simon Chong","Dan Fybel",1.21
-"208","208",2021-03-14,2021,11,"14","""Mr. Lonely Farts""","Ryan Mattos","Holly Schlesinger",1.21
-"209","209",2021-03-21,2021,11,"15","""Sheshank Redumption""","Chris Song","Jon Schroeder",1.05
-"210","210",2021-03-28,2021,11,"16","""Y Tu Tina También""","Mathew Long","Rich Rinaldi",1.07
-"211","211",2021-04-11,2021,11,"17","""Fingers-loose""","Simon Chong","Lizzie Molyneux-Logelin & Wendy Molyneux",1.19
-"212","212",2021-04-18,2021,11,"18","""Some Kind of Fender Benderful""","Ryan Mattos","Kelvin Yu",1.05
-"213","213",2021-05-02,2021,11,"19","""Bridge Over Troubled Rudy""","Chris Song","Scott Jacobson",0.95
-"214","214",2021-05-09,2021,11,"20","""Steal Magazine-olias""","Mathew Long","Katie Crown",1.11
-"215","215",2021-05-16,2021,11,"21","""Tell Me Dumb Thing Good""","Simon Chong","Dan Fybel",1.08
-"216","216",2021-05-23,2021,11,"22","""Vampire Disco Death Dance""","Tom Riggin","Steven Davis",0.98
-"217","217",2021-09-26,2021,12,"1","""Manic Pixie Crap Show""","Ryan Mattos","Nora Smith",1.6
-"218","218",2021-10-03,2021,12,"2","""Crystal Mess""","Tom Riggin","Holly Schlesinger",1.14
-"219","219",2021-10-10,2021,12,"3","""The Pumpkinening""","Chris Song","Kelvin Yu",1.77
-"220","220",2021-10-17,2021,12,"4","""Driving Big Dummy""","Mathew Long","Jon Schroeder",1.17
-"221","221",2021-10-24,2021,12,"5","""Seven-tween Again""","Simon Chong","Rich Rinaldi",1.2
-"222","222",2021-11-07,2021,12,"6","""Beach, Please""","Ryan Mattos","Scott Jacobson",1.48
-"223","223",2021-11-14,2021,12,"7","""Loft in Bedslation""","Matthew Long","Jameel Saleem",1.16
-"224","224",2021-11-21,2021,12,"8","""Stuck in the Kitchen with You""","Tom Riggin","Dan Fybel",1.84
-"225","225",2021-11-28,2021,12,"9","""FOMO You Didn't""","Simon Chong","Holly Schlesinger",1.62
-"226","226",2021-12-19,2021,12,"10","""Gene's Christmas Break""","Chris Song","Katie Crown",1.6
-"227","227",2022-01-09,2022,12,"11","""Touch of Eval(uations)""","Ryan Mattos","Greg Thompson",1.42
-"228","228",2022-02-27,2022,12,"12","""Ferry on My Wayward Bob and Linda""","Matthew Long","Scott Jacobson",1.18
-"229","229",2022-03-06,2022,12,"13","""Frigate Me Knot""","Chris Song","Rich Rinaldi",1.15
-"230","230",2022-03-13,2022,12,"14","""Video Killed the Gene-io Star""","Tom Riggin","Jon Schroeder",0.95
-"231","231",2022-03-20,2022,12,"15","""Ancient Misbehavin""","Simon Chong","Dan Fybel",1.01
-"232","232",2022-03-27,2022,12,"16","""Interview with a Pop-pop-pire""","Ryan Mattos","Katie Crown",1.05
-"233","233",2022-04-10,2022,12,"17","""The Spider House Rules""","Tom Riggin & Ryan Mattos","Jameel Saleem",0.88
-"234","234",2022-04-24,2022,12,"18","""Clear and Present Ginger""","Chris Song","Lizzie Molyneux-Logelin & Wendy Molyneux",0.89
-"235","235",2022-05-01,2022,12,"19","""A-Sprout a Boy""","Matthew Long","Holly Schlesinger",1.02
-"236","236",2022-05-08,2022,12,"20","""Sauce Side Story""","Simon Chong & Tom Riggin","Steven Davis",0.92
-"237","237",2022-05-15,2022,12,"21","""Eighth Grade Runner""","Simon Chong","Loren Bouchard & Nora Smith",1.01
-"238","238",2022-05-22,2022,12,"22","""Judge-bot Day""","Ryan Mattos","Loren Bouchard & Nora Smith",0.93
-"239","239",2022-09-25,2022,13,"1","""To Bob, or Not to Bob""","Chris Song","Lizzie Molyneux-Logelin & Wendy Molyneux",1.67
-"240","240",2022-10-02,2022,13,"2","""The Reeky Lake Show""","Mathew Long","Rich Rinaldi",1.06
-"241","241",2022-10-09,2022,13,"3","""What About Job?""","Tom Riggin","Lizzie Molyneux-Logelin & Wendy Molyneux",1.68
-"242","242",2022-10-16,2022,13,"4","""Comet-y of Errors""","Brian LoSchiavo","Dan Fybel",0.92
-"243","243",2022-10-23,2022,13,"5","""So You Stink You Can Dance""","Ryan Mattos","Jon Schroeder",1.49
-"244","244",2022-10-30,2022,13,"6","""Apple Gore-chard! (But Not Gory)""","Chris Song","Scott Jacobson",1.66
-"245","245",2022-11-13,2022,13,"7","""Ready Player Gene""","Matthew Long","Jameel Saleem",1.65
-"246","246",2022-11-20,2022,13,"8","""Putts-giving""","Tom Riggin","Katie Crown",1.09
-"247","247",2022-11-27,2022,13,"9","""Show Mama from the Grave""","Brian LoSchiavo","Holly Schlesinger",1.22
-"248","248",2022-12-11,2022,13,"10","""The Plight Before Christmas""","Chris Song","Teleplay by : Loren BouchardStory by : Kelvin Yu",1.46
-"249","249",2023-01-08,2023,13,"11","""Cheaty Cheaty Bang Bang""","Ryan Mattos","Steven Davis",1.35
-"250","250",2023-02-19,2023,13,"12","""Oh Row You Didn't""","Matthew Long","Rich Rinaldi",1.01
-"251","251",2023-02-26,2023,13,"13","""Stop! Or My Mom Will Sleuth!""","Tom Riggin","Dan Fybel",0.87
-"252","252",2023-03-05,2023,13,"14","""These Boots Are Made for Stalking""","Brian LoSchiavo","Lindsey Stoddart",0.78
-"253","253",2023-03-12,2023,13,"15","""The Show (and Tell) Must Go On""","Ryan Mattos","Jon Schroeder",0.84
-"254","254",2023-03-19,2023,13,"16","""What a (April) Fool Believes""","Matthew Long","Greg Thompson",0.75
-"255","255",2023-03-19,2023,13,"17","""Crows Encounters of the Bird Kind""","Chris Song","Scott Jacobson",0.81
-"256","256",2023-04-16,2023,13,"18","""Gift Card or Buy Trying""","Tom Riggin","Jameel Saleem",0.67
-"257","257",2023-04-23,2023,13,"19","""Crab-solutely Fabulous""","Brian LoSchiavo","Katie Crown",0.8
-"258","258",2023-04-30,2023,13,"20","""Radio No You Didn't""","Ryan Mattos","Holly Schlesinger",0.82
-"259","259",2023-05-14,2023,13,"21","""Mother Author Laser Pointer""","Chris Song","Lindsey Stoddart",0.72
-"260","260",2023-05-21,2023,13,"22","""Amelia""","Matthew Long & Brian LoSchiavo","Loren Bouchard",0.72
-"261","261",2023-10-01,2023,14,"1","""Fight at the Not Okay Chore-ral""","Bernard Derriman","Nora Smith",1.23
-"262","262",2023-10-08,2023,14,"2","""The Amazing Rudy""","Ryan Mattos","Lizzie Molyneux-Logelin & Wendy Molyneux",0.82
-"263","263",2023-10-22,2023,14,"3","""The Pickleorette""","Chris Song","Steven Davis",0.78
-"264","264",2023-10-29,2023,14,"4","""Running Down a Gene""","Matthew Long","Holly Schlesinger",0.91
-"265","265",2023-11-05,2023,14,"5","""Bully-ieve It or Not""","Brian LoSchiavo","Jon Schroeder",1.56
-"266","266",2023-11-12,2023,14,"6","""Escape from Which Island?""","Chris Song","Rich Rinaldi",1.43
-"267","267",2023-11-19,2023,14,"7","""The (Raccoon) King and I""","Ryan Mattos","Scott Jacobson",0.86
-"268","268",2023-11-26,2023,14,"8","""Wharf, Me Worry?""","Matthew Long","Katie Crown",0.87
-"269","269",2023-12-03,2023,14,"9","""Fraud of the Dead: Zombie-docu-pocalypse""","Brian Loschiavo","Jameel Saleem",1.3
-"270","270",2023-12-17,2023,14,"10","""The Nightmare 2 Days Before Christmas""","Ryan Mattos","Lindsey Stoddart",1.5
-"271","271",2024-01-07,2024,14,"11","""Mission Impossi-Bob""","Chris Song","Steven Davis",0.98
-"272","272",2024-03-10,2024,14,"12","""Jade in the Shade""","Matthew Long","Jon Schroeder",0.79
-"273","273",2024-05-19,2024,14,"13","""Butt Sweat and Fears""","Brian Loschiavo","Holly Schlesinger",0.59
-"274","274",2024-09-08,2024,14,"14","""The Big Stieblitzki""","Ryan Mattos","Scott Jacobson",1.91
-"275","275",2024-09-15,2024,14,"15","""The Right Tough Stuff""","TBA","TBA",NA
-"276","276",2024-09-22,2024,14,"16","""To Catch a Beef""","TBA","TBA",NA
+"episode_overall","aired_date","year","season","episode","title","directed_by","written_by","us_viewers_millions"
+1,2011-01-09,2011,1,1,"Human Flesh","Anthony Chun","Loren Bouchard & Jim Dauterive",9.38
+2,2011-01-16,2011,1,2,"Crawl Space","Kyounghee Lim","Loren Bouchard & Jim Dauterive",5.07
+3,2011-01-23,2011,1,3,"Sacred Cow","Jennifer Coyle","Nora Smith",4.81
+4,2011-02-13,2011,1,4,"Sexy Dance Fighting","Anthony Chun","Steven Davis & Kelvin Yu",4.19
+5,2011-02-20,2011,1,5,"Hamburger Dinner Theater","Wes Archer","Dan Fybel & Rich Rinaldi",4.87
+6,2011-03-06,2011,1,6,"Sheesh! Cab, Bob?","Jennifer Coyle","Jon Schroeder",4.91
+7,2011-03-13,2011,1,7,"Bed & Breakfast","Boohwan Lim","Holly Schlesinger",4.1
+8,2011-03-20,2011,1,8,"Art Crawl","Kyounghee Lim","Lizzie Molyneux & Wendy Molyneux",4.43
+9,2011-03-27,2011,1,9,"Spaghetti Western and Meatballs","Wes Archer","Kit Boss",4.65
+10,2011-04-10,2011,1,10,"Burger War","Boohwan Lim","Loren Bouchard",4
+11,2011-05-08,2011,1,11,"Weekend at Mort's","Anthony Chun","Scott Jacobson",4.26
+12,2011-05-15,2011,1,12,"Lobsterfest","Boohwan Lim","Aron Abrams & Greg Thompson",4.68
+13,2011-05-22,2011,1,13,"Torpedo","Kyounghee Lim","Dan Fybel & Rich Rinaldi",4.31
+14,2012-03-11,2012,2,1,"The Belchies","Boohwan Lim & Kyounghee Lim","Jon Schroeder",4.04
+15,2012-03-18,2012,2,2,"Bob Day Afternoon","Wes Archer","Dan Fybel & Rich Rinaldi",4.4
+16,2012-03-25,2012,2,3,"Synchronized Swimming","Anthony Chun","Holly Schlesinger",3.97
+17,2012-04-01,2012,2,4,"Burgerboss","Jennifer Coyle","Scott Jacobson",3.66
+18,2012-04-15,2012,2,5,"Food Truckin'","Bernard Derriman","Lizzie Molyneux & Wendy Molyneux",3.9
+19,2012-04-29,2012,2,6,"Dr. Yap","Anthony Chun","Steven Davis & Kelvin Yu",3.92
+20,2012-05-06,2012,2,7,"Moody Foodie","Boohwan Lim & Kyounghee Lim","Steven Davis & Kelvin Yu",3.72
+21,2012-05-13,2012,2,8,"Bad Tina","Jennifer Coyle","Holly Schlesinger",3.69
+22,2012-05-20,2012,2,9,"Beefsquatch","Wes Archer","Nora Smith",3.57
+23,2012-09-30,2012,3,1,"Ear-sy Rider","Anthony Chun","Dan Fybel & Rich Rinaldi",5.46
+24,2012-10-07,2012,3,2,"Full Bars","Boohwan Lim & Kyounghee Lim","Steven Davis & Kelvin Yu",4.89
+25,2012-11-04,2012,3,3,"Bob Fires the Kids","Boohwan Lim & Kyounghee Lim","Lizzie Molyneux & Wendy Molyneux",3.92
+26,2012-11-11,2012,3,4,"Mutiny on the Windbreaker","John Rice","Kit Boss",4.89
+27,2012-11-18,2012,3,5,"An Indecent Thanksgiving Proposal","Tyree Dillihay","Lizzie Molyneux & Wendy Molyneux",3.94
+28,2012-11-25,2012,3,6,"The Deepening","Bernard Derriman","Greg Thompson",4.66
+29,2012-12-02,2012,3,7,"Tinarannosaurus Wrecks","Wes Archer","Jon Schroeder",3.97
+30,2012-12-09,2012,3,8,"The Unbearable Like-Likeness of Gene","Don MacKinnon","Holly Schlesinger",4.55
+31,2012-12-16,2012,3,9,"God Rest Ye Merry Gentle-Mannequins","Anthony Chun","Kit Boss",3.09
+32,2013-01-06,2013,3,10,"Mother Daughter Laser Razor","Jennifer Coyle","Nora Smith",6.4
+33,2013-01-13,2013,3,11,"Nude Beach","Wes Archer","Scott Jacobson",4.44
+34,2013-01-27,2013,3,12,"Broadcast Wagstaff School News","Jennifer Coyle","Greg Thompson",4.12
+35,2013-02-10,2013,3,13,"My Fuzzy Valentine","Boohwan Lim & Kyounghee Lim","Dan Fybel & Rich Rinaldi",3.45
+36,2013-02-17,2013,3,14,"Lindapendent Woman","Don MacKinnon","Mike Benner",3.93
+37,2013-03-03,2013,3,15,"O.T.: The Outside Toilet","Anthony Chun","Lizzie Molyneux & Wendy Molyneux",3.67
+38,2013-03-10,2013,3,16,"Topsy","Tyree Dillihay","Loren Bouchard & Nora Smith",3.85
+39,2013-03-17,2013,3,17,"Two for Tina","Wes Archer","Scott Jacobson",3.62
+40,2013-03-24,2013,3,18,"It Snakes a Village","Jennifer Coyle","Kit Boss",3.76
+41,2013-04-14,2013,3,19,"Family Fracas","Don MacKinnon","Holly Schlesinger",3.45
+42,2013-04-21,2013,3,20,"The Kids Run the Restaurant","Boohwan Lim & Kyounghee Lim","Steven Davis & Kelvin Yu",3.74
+43,2013-04-28,2013,3,21,"Boyz 4 Now","Anthony Chun","Lizzie Molyneux & Wendy Molyneux",3.5
+44,2013-05-05,2013,3,22,"Carpe Museum","Tyree Dillihay","Jon Schroeder",3.96
+45,2013-05-12,2013,3,23,"The Unnatural","Wes Archer","Greg Thompson",3.38
+46,2013-09-29,2013,4,1,"A River Runs Through Bob","Jennifer Coyle","Dan Fybel & Rich Rinaldi",4.48
+47,2013-10-06,2013,4,2,"Fort Night","Boohwan Lim & Kyounghee Lim","Mike Olsen",4.21
+48,2013-11-03,2013,4,3,"Seaplane!","Jennifer Coyle","Dan Fybel & Rich Rinaldi",3.75
+49,2013-11-10,2013,4,4,"My Big Fat Greek Bob","Don MacKinnon","Scott Jacobson",3.17
+50,2013-11-24,2013,4,5,"Turkey in a Can","Boohwan Lim & Kyounghee Lim","Lizzie Molyneux & Wendy Molyneux",4.08
+51,2013-12-01,2013,4,6,"Purple Rain-Union","Tyree Dillihay","Loren Bouchard & Nora Smith",3.39
+52,2013-12-08,2013,4,7,"Bob and Deliver","Don MacKinnon","Greg Thompson",4.6
+53,2013-12-15,2013,4,8,"Christmas in the Car","Bernard Derriman & Jennifer Coyle","Steven Davis & Kelvin Yu",5.57
+54,2014-01-05,2014,4,9,"Slumber Party","Jennifer Coyle","Scott Jacobson",6.35
+55,2014-01-12,2014,4,10,"Presto Tina-o","Chris Song","Kit Boss",4.2
+56,2014-01-26,2014,4,11,"Easy Com-mercial, Easy Go-mercial","Tyree Dillihay","Jon Schroeder",3.24
+57,2014-03-09,2014,4,12,"The Frond Files","Jennifer Coyle","Lizzie Molyneux & Wendy Molyneux",2.21
+58,2014-03-16,2014,4,13,"Mazel-Tina","Brian Loschiavo","Holly Schlesinger",2.44
+59,2014-03-23,2014,4,14,"Uncle Teddy","Don MacKinnon","Dan Fybel & Rich Rinaldi",2.45
+60,2014-03-30,2014,4,15,"The Kids Rob a Train","Boohwan Lim & Kyounghee Lim","Steven Davis & Kelvin Yu",2.26
+61,2014-04-06,2014,4,16,"I Get Psy-chic Out of You","Chris Song","Jon Schroeder",2.27
+62,2014-04-13,2014,4,17,"The Equestranauts","Tyree Dillihay","Dan Mintz",1.83
+63,2014-04-20,2014,4,18,"Ambergris","Don MacKinnon","Scott Jacobson",1.52
+64,2014-04-27,2014,4,19,"The Kids Run Away","Boohwan Lim & Kyounghee Lim","Rich Rinaldi",2.26
+65,2014-05-04,2014,4,20,"Gene It On","Chris Song","Greg Thompson",2.23
+66,2014-05-11,2014,4,21,"Wharf Horse (or How Bob Saves/Destroys the Town – Part I)","Brian Loschiavo","Nora Smith",1.97
+67,2014-05-18,2014,4,22,"World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town – Part II)","Jennifer Coyle","Lizzie Molyneux & Wendy Molyneux",1.95
+68,2014-10-05,2014,5,1,"Work Hard or Die Trying, Girl","Jennifer Coyle","Nora Smith",3.14
+69,2014-11-02,2014,5,2,"Tina and the Real Ghost","Boohwan Lim & Kyounghee Lim","Steven Davis & Kelvin Yu",2.89
+70,2014-11-16,2014,5,3,"Friends with Burger-fits","Tyree Dillihay","Dan Fybel",3.35
+71,2014-11-23,2014,5,4,"Dawn of the Peck","Tyree Dillihay","Lizzie Molyneux & Wendy Molyneux",1.9
+72,2014-11-30,2014,5,5,"Best Burger","Don MacKinnon","Mike Benner",2.23
+73,2014-12-07,2014,5,6,"Father of the Bob","Chris Song","Steven Davis & Kelvin Yu",3.18
+74,2014-12-14,2014,5,7,"Tina Tailor Soldier Spy","Don MacKinnon","Holly Schlesinger",2.54
+75,2015-01-04,2015,5,8,"Midday Run","Ian Hamilton","Scott Jacobson",3.95
+76,2015-01-11,2015,5,9,"Speakeasy Rider","Jennifer Coyle","Rich Rinaldi",3.34
+77,2015-01-25,2015,5,10,"Late Afternoon in the Garden of Bob and Louise","Boohwan Lim & Kyounghee Lim","Jon Schroeder",2.49
+78,2015-02-08,2015,5,11,"Can't Buy Me Math","Tyree Dillihay","Dan Fybel",1.94
+79,2015-02-15,2015,5,12,"The Millie-churian Candidate","Don MacKinnon","Greg Thompson",2.01
+80,2015-03-01,2015,5,13,"The Gayle Tales","Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",3.03
+81,2015-03-08,2015,5,14,"L'il Hard Dad","Chris Song","Nora Smith",2.56
+82,2015-03-15,2015,5,15,"Adventures in Chinchilla-sitting","Cecilia Aranovich","Mike Benner",2.24
+83,2015-03-22,2015,5,16,"The Runway Club","Jennifer Coyle","Steven Davis & Kelvin Yu",2.21
+84,2015-04-26,2015,5,17,"Itty Bitty Ditty Committee","Bernard Derriman","Holly Schlesinger",2.04
+85,2015-05-03,2015,5,18,"Eat, Spray, Linda","Tyree Dillihay","Jon Schroeder",2.24
+86,2015-05-10,2015,5,19,"Housetrap","Jennifer Coyle & Bernard Derriman","Dan Fybel",2.47
+87,2015-05-17,2015,5,20,"Hawk & Chick","Tyree Dillihay","Rich Rinaldi",1.95
+88,2015-05-17,2015,5,21,"The Oeder Games","Don MacKinnon","Scott Jacobson",2.44
+89,2015-09-27,2015,6,1,"Sliding Bobs","Don MacKinnon","Greg Thompson",2.51
+90,2015-10-11,2015,6,2,"The Land Ship","Jennifer Coyle","Holly Schlesinger & H. Jon Benjamin",2.19
+91,2015-10-18,2015,6,3,"The Hauntening","Jennifer Coyle","Steven Davis & Kelvin Yu",2.09
+92,2015-11-08,2015,6,4,"Gayle Makin' Bob Sled","Tyree Dillihay","Lizzie Molyneux & Wendy Molyneux",3.13
+93,2015-11-15,2015,6,5,"Nice-Capades","Chris Song","Dan Fybel",2.27
+94,2016-01-17,2016,6,6,"The Cook, the Steve, the Gayle, & Her Lover","Tyree Dillihay","Nora Smith",2.26
+95,2016-02-14,2016,6,7,"The Gene and Courtney Show","Chris Song","Rich Rinaldi",2.05
+96,2016-02-21,2016,6,8,"Sexy Dance Healing","Chris Song & Bernard Derriman","Rich Rinaldi",2.29
+97,2016-03-06,2016,6,9,"Sacred Couch","Brian Loschiavo","Scott Jacobson",2.64
+98,2016-03-13,2016,6,10,"Lice Things Are Lice","Brian Loschiavo","Greg Thompson",2.28
+99,2016-04-03,2016,6,11,"House of 1000 Bounces","Tyree Dillihay","Mike Benner",2.05
+100,2016-04-03,2016,6,12,"Stand by Gene","Tyree Dillihay","Jon Schroeder",1.99
+101,2016-04-10,2016,6,13,"Wag the Hog","Brian Loschiavo","Holly Schlesinger",2.35
+102,2016-04-17,2016,6,14,"The Hormone-iums","Chris Song","Lizzie Molyneux & Wendy Molyneux",2.18
+103,2016-04-24,2016,6,15,"Pro Tiki/Con Tiki","Brian Loschiavo","Jon Schroeder",2.35
+104,2016-05-08,2016,6,16,"Bye Bye Boo Boo","Tyree Dillihay","Scott Jacobson",2.31
+105,2016-05-15,2016,6,17,"The Horse Rider-er","Tyree Dillihay","Nora Smith",2.27
+106,2016-05-22,2016,6,18,"Secret Admiral-irer","Brian Loschiavo","Holly Schlesinger & H. Jon Benjamin",2.23
+107,2016-05-22,2016,6,19,"Glued, Where's My Bob?","Bernard Derriman","Steven Davis & Kelvin Yu",2.04
+108,2016-09-25,2016,7,1,"Flu-ouise","Tyree Dillihay","Nora Smith",2.6
+109,2016-10-09,2016,7,2,"Sea Me Now","Chris Song","Dan Fybel",2.79
+110,2016-10-23,2016,7,3,"Teen-a Witch","Chris Song","Holly Schlesinger",3.01
+111,2016-11-06,2016,7,4,"They Serve Horses, Don't They?","Tyree Dillihay","Steven Davis & Kelvin Yu",2.42
+112,2016-11-20,2016,7,5,"Large Brother, Where Fart Thou?","Chris Song","Lizzie Molyneux & Wendy Molyneux",2.35
+113,2016-11-20,2016,7,6,"The Quirkducers","Mauricio Pardo","Steven Davis & Kelvin Yu",2.46
+114,2016-11-27,2016,7,7,"The Last Gingerbread House on the Left","Chris Song","Nora Smith",2.44
+115,2017-01-08,2017,7,8,"Ex Mach Tina","Brian Loschiavo","Greg Thompson",3.58
+116,2017-02-12,2017,7,9,"Bob Actually","Chris Song","Steven Davis & Kelvin Yu",1.67
+117,2017-02-19,2017,7,10,"There's No Business Like Mr. Business Business","Tyree Dillihay","Lizzie Molyneux & Wendy Molyneux",1.97
+118,2017-03-05,2017,7,11,"A Few 'Gurt Men","Tyree Dillihay","Jon Schroeder",1.77
+119,2017-03-12,2017,7,12,"Like Gene for Chocolate","Brian Loschiavo","Rich Rinaldi",1.82
+120,2017-03-19,2017,7,13,"The Grand Mama-pest Hotel","Chris Song","Scott Jacobson",1.93
+121,2017-03-26,2017,7,14,"Aquaticism","Brian Loschiavo","Dan Fybel",1.86
+122,2017-03-26,2017,7,15,"Ain't Miss Debatin'","Mauricio Pardo","Greg Thompson",1.86
+123,2017-04-02,2017,7,16,"Eggs for Days","Brian Loschiavo","Lizzie Molyneux & Wendy Molyneux",1.52
+124,2017-04-23,2017,7,17,"Zero Larp Thirty","Tyree Dillihay","Rich Rinaldi",1.58
+125,2017-04-23,2017,7,18,"The Laser-inth","Mauricio Pardo","Scott Jacobson",1.88
+126,2017-04-30,2017,7,19,"Thelma & Louise Except Thelma is Linda","Brian Loschiavo","Jon Schroeder",1.59
+127,2017-05-07,2017,7,20,"Mom, Lies, and Videotapes","Chris Song","Dan Fybel",2.02
+128,2017-05-21,2017,7,21,"Paraders of the Lost Float","Bernard Derriman","Steven Davis",1.61
+129,2017-06-11,2017,7,22,"Into the Mild","Tyree Dillihay","Kelvin Yu",1.52
+130,2017-10-01,2017,8,1,"Brunchsquatch","Mauricio Pardo & Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",2.93
+131,2017-10-15,2017,8,2,"The Silence of the Louise","Chris Song","Greg Thompson",2.43
+132,2017-10-22,2017,8,3,"The Wolf of Wharf Street","Mauricio Pardo","Lizzie Molyneux & Wendy Molyneux",3.02
+133,2017-11-05,2017,8,4,"Sit Me Baby One More Time","Brian Loschiavo","Nora Smith",2.89
+134,2017-11-19,2017,8,5,"Thanks-hoarding","Tyree Dillihay","Jon Schroeder",2.37
+135,2017-12-10,2017,8,6,"The Bleakening","Brian Loschiavo","Steven Davis",3.17
+136,2017-12-10,2017,8,7,"The Bleakening","Chris Song","Kelvin Yu",3.17
+137,2018-01-14,2018,8,8,"V for Valentine-detta","Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",4.76
+138,2018-03-11,2018,8,9,"Y Tu Ga-Ga Tambien","Brian Loschiavo","Scott Jacobson",1.84
+139,2018-03-18,2018,8,10,"The Secret Ceramics Room of Secrets","Tyree Dillihay","Dan Fybel",1.72
+140,2018-03-25,2018,8,11,"Sleeping with the Frenemy","Brian Loschiavo","Greg Thompson",1.74
+141,2018-04-01,2018,8,12,"The Hurt Soccer","Damon Wong","Rachel Hastings",1.54
+142,2018-04-08,2018,8,13,"Cheer Up, Sleepy Gene","Tyree Dillihay","Teleplay by : Holly SchlesingerStory by : H. Jon Benjamin & Holly Schlesinger",1.74
+143,2018-04-15,2018,8,14,"The Trouble with Doubles","Ian Hamilton","Holly Schlesinger",1.83
+144,2018-04-22,2018,8,15,"Go Tina on the Mountain","Tyree Dillihay","Rich Rinaldi",1.66
+145,2018-04-29,2018,8,16,"Are You There Bob? It's Me, Birthday","Tyree Dillihay","Kelvin Yu",1.91
+146,2018-05-06,2018,8,17,"Boywatch","Mauricio Pardo","Rich Rinaldi",1.56
+147,2018-05-13,2018,8,18,"As I Walk Through the Alley of the Shadow of Ramps","Chris Song","Scott Jacobson",1.56
+148,2018-05-13,2018,8,19,"Mo Mommy, Mo Problems","Ian Hamilton","Steven Davis",1.88
+149,2018-05-20,2018,8,20,"Mission Impos-slug-ble","Chris Song","Nora Smith",1.65
+150,2018-05-20,2018,8,21,"Something Old, Something New, Something Bob Caters for You","Chris Song","Jon Schroeder",1.62
+151,2018-09-30,2018,9,1,"Just One of the Boyz 4 Now for Now","Ian Hamilton","Lizzie Molyneux & Wendy Molyneux",2.47
+152,2018-10-07,2018,9,2,"The Taking of Funtime One Two Three","Chris Song","Justin Hook",3.08
+153,2018-10-14,2018,9,3,"Tweentrepreneurs","Ryan Mattos","Greg Thompson",2.14
+154,2018-10-21,2018,9,4,"Nightmare on Ocean Avenue Street","Tyree Dillihay","Dan Fybel",2.8
+155,2018-11-04,2018,9,5,"Live and Let Fly","Chris Song","Rich Rinaldi",3.16
+156,2018-11-11,2018,9,6,"Bobby Driver","Ryan Mattos","Scott Jacobson",2.23
+157,2018-11-18,2018,9,7,"I Bob Your Pardon","Chris Song","Nora Smith",2.91
+158,2018-11-25,2018,9,8,"Roller? I Hardly Know Her!","Kev Wotton","Lizzie Molyneux & Wendy Molyneux",1.97
+159,2018-12-02,2018,9,9,"UFO No You Didn't","Tyree Dillihay","Steven Davis",2.99
+160,2018-12-09,2018,9,10,"Better Off Sled","Ian Hamilton","Holly Schlesinger",4.35
+161,2019-01-06,2019,9,11,"Lorenzo's Oil? No, Linda's","Chris Song","Jon Schroeder",2.21
+162,2019-01-13,2019,9,12,"The Helen Hunt","Ryan Mattos","Dan Fybel",4.89
+163,2019-02-10,2019,9,13,"Bed, Bob & Beyond","Ian Hamilton","Kelvin Yu",1.66
+164,2019-02-17,2019,9,14,"Every Which Way but Goose","Kev Wotton","Holly Schlesinger",2.18
+165,2019-03-03,2019,9,15,"The Fresh Princ-ipal","Tyree Dillihay","Greg Thompson",1.98
+166,2019-03-10,2019,9,16,"Roamin' Bob-iday","Ian Hamilton","Lizzie Molyneux-Logelin & Wendy Molyneux",2
+167,2019-03-17,2019,9,17,"What About Blob?","Chris Song","Rich Rinaldi",2.08
+168,2019-03-24,2019,9,18,"If You Love It So Much, Why Don't You Marionette?","Ryan Mattos","Katie Crown",2.03
+169,2019-04-07,2019,9,19,"Long Time Listener, First Time Bob","Ian Hamilton & Kev Wotton","Scott Jacobson",1.76
+170,2019-04-28,2019,9,20,"The Gene Mile","Tyree Dillihay","Steven Davis",1.84
+171,2019-05-05,2019,9,21,"P.T.A. It Ain't So","Ian Hamilton","Kelvin Yu",1.58
+172,2019-05-12,2019,9,22,"Yes Without My Zeke","Chris Song","Jon Schroeder",1.48
+173,2019-09-29,2019,10,1,"The Ring (But Not Scary)","Mario D'Anna","Lizzie Molyneux & Wendy Molyneux",1.82
+174,2019-10-06,2019,10,2,"Boys Just Wanna Have Fungus","Ryan Mattos","Dan Fybel",2.34
+175,2019-10-13,2019,10,3,"Motor, She Boat","Tom Riggin","Holly Schlesinger",1.64
+176,2019-10-20,2019,10,4,"Pig Trouble in Little Tina","Chris Song","Nora Smith",2.45
+177,2019-11-03,2019,10,5,"Legends of the Mall","Matthew Long","Greg Thompson",1.51
+178,2019-11-10,2019,10,6,"The Hawkening: Look Who's Hawking Now!","Mario D'Anna","Rich Rinaldi",2.06
+179,2019-11-17,2019,10,7,"Land of the Loft","Tom Riggin","Steven Davis",1.88
+180,2019-11-24,2019,10,8,"Now We're Not Cooking with Gas","Ryan Mattos","Katie Crown",2.29
+181,2019-12-01,2019,10,9,"All That Gene","Matthew Long","Kelvin Yu",1.6
+182,2019-12-15,2019,10,10,"Have Yourself a Maily Linda Christmas","Chris Song","Scott Jacobson",2.41
+183,2020-01-12,2020,10,11,"Drumforgiven","Mario D'Anna","Jon Schroeder",5.76
+184,2020-02-16,2020,10,12,"A Fish Called Tina","Ryan Mattos","Dan Fybel",1.51
+185,2020-02-23,2020,10,13,"Three Girls and a Little Wharfy","Tom Riggin","Holly Schlesinger",1.58
+186,2020-03-01,2020,10,14,"Wag the Song","Chris Song","Greg Thompson",1.43
+187,2020-03-08,2020,10,15,"Yurty Rotten Scoundrels","Tom Riggin","Katie Crown",1.28
+188,2020-03-15,2020,10,16,"Flat-Top o' the Morning to Ya","Ryan Mattos","Rich Rinaldi",1.44
+189,2020-03-22,2020,10,17,"Just the Trip","Chris Song","Lizzie Molyneux & Wendy Molyneux",1.31
+190,2020-04-19,2020,10,18,"Tappy Tappy Tappy Tap Tap Tap","Ryan Mattos","Jon Schroeder",1.36
+191,2020-04-26,2020,10,19,"The Handyman Can","Tom Riggin","Kelvin Yu",1.29
+192,2020-05-03,2020,10,20,"Poops!... I Didn't Do It Again","Chris Song","Steven Davis",1.17
+193,2020-05-10,2020,10,21,"Local She-ro","Ryan Mattos","Scott Jacobson",1.04
+194,2020-05-17,2020,10,22,"Prank You for Being a Friend","Tom Riggin","Katie Crown",1.28
+195,2020-09-27,2020,11,1,"Dream a Little Bob of Bob","Simon Chong","Dan Fybel",1.77
+196,2020-10-04,2020,11,2,"Worms of In-Rear-ment","Chris Song","Nora Smith",1.12
+197,2020-10-11,2020,11,3,"Copa-Bob-bana","Ryan Mattos","Holly Schlesinger",1.26
+198,2020-11-01,2020,11,4,"Heartbreak Hotel-oween","Chris Song","Rich Rinaldi",1.9
+199,2020-11-08,2020,11,5,"Fast Time Capsules at Wagstaff School","Tom Riggin","Greg Thompson",1.41
+200,2020-11-15,2020,11,6,"Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids","Matthew Long","Steven Davis",1.79
+201,2020-11-22,2020,11,7,"Diarrhea of a Poopy Kid","Tom Riggin","Lizzie Molyneux-Logelin & Wendy Molyneux",1.77
+202,2020-11-29,2020,11,8,"The Terminalator II: Terminals of Endearment","Ryan Mattos","Kelvin Yu",1.23
+203,2020-12-06,2020,11,9,"Mommy Boy","Simon Chong","Jon Schroeder",1.25
+204,2020-12-13,2020,11,10,"Yachty or Nice","Chris Song","Scott Jacobson",1.81
+205,2021-02-21,2021,11,11,"Romancing the Beef","Tom Riggin","Greg Thompson",1.24
+206,2021-02-28,2021,11,12,"Die Card, or Card Trying","Matthew Long","Katie Crown",1.09
+207,2021-03-07,2021,11,13,"An Incon-Wheelie-ent Truth","Simon Chong","Dan Fybel",1.21
+208,2021-03-14,2021,11,14,"Mr. Lonely Farts","Ryan Mattos","Holly Schlesinger",1.21
+209,2021-03-21,2021,11,15,"Sheshank Redumption","Chris Song","Jon Schroeder",1.05
+210,2021-03-28,2021,11,16,"Y Tu Tina También","Matthew Long","Rich Rinaldi",1.07
+211,2021-04-11,2021,11,17,"Fingers-loose","Simon Chong","Lizzie Molyneux-Logelin & Wendy Molyneux",1.19
+212,2021-04-18,2021,11,18,"Some Kind of Fender Benderful","Ryan Mattos","Kelvin Yu",1.05
+213,2021-05-02,2021,11,19,"Bridge Over Troubled Rudy","Chris Song","Scott Jacobson",0.95
+214,2021-05-09,2021,11,20,"Steal Magazine-olias","Matthew Long","Katie Crown",1.11
+215,2021-05-16,2021,11,21,"Tell Me Dumb Thing Good","Simon Chong","Dan Fybel",1.08
+216,2021-05-23,2021,11,22,"Vampire Disco Death Dance","Tom Riggin","Steven Davis",0.98
+217,2021-09-26,2021,12,1,"Manic Pixie Crap Show","Ryan Mattos","Nora Smith",1.6
+218,2021-10-03,2021,12,2,"Crystal Mess","Tom Riggin","Holly Schlesinger",1.14
+219,2021-10-10,2021,12,3,"The Pumpkinening","Chris Song","Kelvin Yu",1.77
+220,2021-10-17,2021,12,4,"Driving Big Dummy","Matthew Long","Jon Schroeder",1.17
+221,2021-10-24,2021,12,5,"Seven-tween Again","Simon Chong","Rich Rinaldi",1.2
+222,2021-11-07,2021,12,6,"Beach, Please","Ryan Mattos","Scott Jacobson",1.48
+223,2021-11-14,2021,12,7,"Loft in Bedslation","Matthew Long","Jameel Saleem",1.16
+224,2021-11-21,2021,12,8,"Stuck in the Kitchen with You","Tom Riggin","Dan Fybel",1.84
+225,2021-11-28,2021,12,9,"FOMO You Didn't","Simon Chong","Holly Schlesinger",1.62
+226,2021-12-19,2021,12,10,"Gene's Christmas Break","Chris Song","Katie Crown",1.6
+227,2022-01-09,2022,12,11,"Touch of Eval(uations)","Ryan Mattos","Greg Thompson",1.42
+228,2022-02-27,2022,12,12,"Ferry on My Wayward Bob and Linda","Matthew Long","Scott Jacobson",1.18
+229,2022-03-06,2022,12,13,"Frigate Me Knot","Chris Song","Rich Rinaldi",1.15
+230,2022-03-13,2022,12,14,"Video Killed the Gene-io Star","Tom Riggin","Jon Schroeder",0.95
+231,2022-03-20,2022,12,15,"Ancient Misbehavin","Simon Chong","Dan Fybel",1.01
+232,2022-03-27,2022,12,16,"Interview with a Pop-pop-pire","Ryan Mattos","Katie Crown",1.05
+233,2022-04-10,2022,12,17,"The Spider House Rules","Tom Riggin & Ryan Mattos","Jameel Saleem",0.88
+234,2022-04-24,2022,12,18,"Clear and Present Ginger","Chris Song","Lizzie Molyneux-Logelin & Wendy Molyneux",0.89
+235,2022-05-01,2022,12,19,"A-Sprout a Boy","Matthew Long","Holly Schlesinger",1.02
+236,2022-05-08,2022,12,20,"Sauce Side Story","Simon Chong & Tom Riggin","Steven Davis",0.92
+237,2022-05-15,2022,12,21,"Eighth Grade Runner","Simon Chong","Loren Bouchard & Nora Smith",1.01
+238,2022-05-22,2022,12,22,"Judge-bot Day","Ryan Mattos","Loren Bouchard & Nora Smith",0.93
+239,2022-09-25,2022,13,1,"To Bob, or Not to Bob","Chris Song","Lizzie Molyneux-Logelin & Wendy Molyneux",1.67
+240,2022-10-02,2022,13,2,"The Reeky Lake Show","Matthew Long","Rich Rinaldi",1.06
+241,2022-10-09,2022,13,3,"What About Job?","Tom Riggin","Lizzie Molyneux-Logelin & Wendy Molyneux",1.68
+242,2022-10-16,2022,13,4,"Comet-y of Errors","Brian Loschiavo","Dan Fybel",0.92
+243,2022-10-23,2022,13,5,"So You Stink You Can Dance","Ryan Mattos","Jon Schroeder",1.49
+244,2022-10-30,2022,13,6,"Apple Gore-chard! (But Not Gory)","Chris Song","Scott Jacobson",1.66
+245,2022-11-13,2022,13,7,"Ready Player Gene","Matthew Long","Jameel Saleem",1.65
+246,2022-11-20,2022,13,8,"Putts-giving","Tom Riggin","Katie Crown",1.09
+247,2022-11-27,2022,13,9,"Show Mama from the Grave","Brian Loschiavo","Holly Schlesinger",1.22
+248,2022-12-11,2022,13,10,"The Plight Before Christmas","Chris Song","Teleplay by : Loren BouchardStory by : Kelvin Yu",1.46
+249,2023-01-08,2023,13,11,"Cheaty Cheaty Bang Bang","Ryan Mattos","Steven Davis",1.35
+250,2023-02-19,2023,13,12,"Oh Row You Didn't","Matthew Long","Rich Rinaldi",1.01
+251,2023-02-26,2023,13,13,"Stop! Or My Mom Will Sleuth!","Tom Riggin","Dan Fybel",0.87
+252,2023-03-05,2023,13,14,"These Boots Are Made for Stalking","Brian Loschiavo","Lindsey Stoddart",0.78
+253,2023-03-12,2023,13,15,"The Show (and Tell) Must Go On","Ryan Mattos","Jon Schroeder",0.84
+254,2023-03-19,2023,13,16,"What a (April) Fool Believes","Matthew Long","Greg Thompson",0.75
+255,2023-03-19,2023,13,17,"Crows Encounters of the Bird Kind","Chris Song","Scott Jacobson",0.81
+256,2023-04-16,2023,13,18,"Gift Card or Buy Trying","Tom Riggin","Jameel Saleem",0.67
+257,2023-04-23,2023,13,19,"Crab-solutely Fabulous","Brian Loschiavo","Katie Crown",0.8
+258,2023-04-30,2023,13,20,"Radio No You Didn't","Ryan Mattos","Holly Schlesinger",0.82
+259,2023-05-14,2023,13,21,"Mother Author Laser Pointer","Chris Song","Lindsey Stoddart",0.72
+260,2023-05-21,2023,13,22,"Amelia","Matthew Long & Brian Loschiavo","Loren Bouchard",0.72
+261,2023-10-01,2023,14,1,"Fight at the Not Okay Chore-ral","Bernard Derriman","Nora Smith",1.23
+262,2023-10-08,2023,14,2,"The Amazing Rudy","Ryan Mattos","Lizzie Molyneux-Logelin & Wendy Molyneux",0.82
+263,2023-10-22,2023,14,3,"The Pickleorette","Chris Song","Steven Davis",0.78
+264,2023-10-29,2023,14,4,"Running Down a Gene","Matthew Long","Holly Schlesinger",0.91
+265,2023-11-05,2023,14,5,"Bully-ieve It or Not","Brian Loschiavo","Jon Schroeder",1.56
+266,2023-11-12,2023,14,6,"Escape from Which Island?","Chris Song","Rich Rinaldi",1.43
+267,2023-11-19,2023,14,7,"The (Raccoon) King and I","Ryan Mattos","Scott Jacobson",0.86
+268,2023-11-26,2023,14,8,"Wharf, Me Worry?","Matthew Long","Katie Crown",0.87
+269,2023-12-03,2023,14,9,"Fraud of the Dead: Zombie-docu-pocalypse","Brian Loschiavo","Jameel Saleem",1.3
+270,2023-12-17,2023,14,10,"The Nightmare 2 Days Before Christmas","Ryan Mattos","Lindsey Stoddart",1.5
+271,2024-01-07,2024,14,11,"Mission Impossi-Bob","Chris Song","Steven Davis",0.98
+272,2024-03-10,2024,14,12,"Jade in the Shade","Matthew Long","Jon Schroeder",0.79
+273,2024-05-19,2024,14,13,"Butt Sweat and Fears","Brian Loschiavo","Holly Schlesinger",0.59
+274,2024-09-08,2024,14,14,"The Big Stieblitzki","Ryan Mattos","Scott Jacobson",1.91
+275,2024-09-15,2024,14,15,"The Right Tough Stuff","Chris Song","Rich Rinaldi",0.77
+276,2024-09-22,2024,14,16,"To Catch a Beef","Matthew Long","Jameel Saleem",0.99
+277,2024-09-29,2024,15,1,"The Tina Table: The Tables Have Tina-ed","Bernard Derriman","Greg Thompson",0.72
+278,2024-10-06,2024,15,2,"Saving Favorite Drive-In","Brian Loschiavo","Katie Crown",0.75
+279,2024-10-20,2024,15,3,"Colon-ly the Dronely","Ryan Mattos","Lindsey Stoddart",1.38
+280,2024-10-27,2024,15,4,"For Whom the Doll Toes","Simon Chong","Loren Bouchard",0.71
+281,2024-11-03,2024,15,5,"Don't Stop Be-cheesin'","Chris Song","Dan Fybel",1.05
+282,2024-11-10,2024,15,6,"Hope N' Mic Night","Simon Chong","Loren Bouchard",0.71
+283,2024-11-24,2024,15,7,"Boogie Days","Brian Loschiavo","Jon Schroeder",1.32
+284,2024-12-08,2024,15,8,"They Slug Horses, Don't They?","Bernard Derriman","Nora Smith",1.03
+285,2024-12-15,2024,15,9,"Dog Christmas Day After Afternoon","Chris Song","Steven Davis",1.16
+286,2024-12-29,2024,15,10,"Advice Things Are Ad-Nice","Ryan Mattos","Holly Schlesinger",1.2
+287,2025-05-18,2025,15,11,"Mr. Fischoeder's Opus","Brian Loschiavo","Scott Jacobson",0.52
+288,2025-05-29,2025,15,12,"Like a Candle in the Gym","Chris Song","Lindsey Stoddart",0.64
+289,2025-06-05,2025,15,13,"Snackface","Ryan Mattos","Rich Rinaldi",0.53
+290,2025-06-12,2025,15,14,"The Place Beyond the Pinecones","Brian Loschiavo","Katie Crown",0.8
+291,2025-06-19,2025,15,15,"The Lost City of Atlantic","Chris Song","Dan Fybel",0.71
+292,2025-07-03,2025,15,16,"The Shell Game","Chris Song","Greg Thompson",0.58
+293,2025-07-10,2025,15,17,"Wild Steal-ions","Ian Hamilton","Brian Wylie",0.68
+294,2025-07-17,2025,15,18,"Don't Worry, Be Hoopy","Ryan Mattos","Lindsey Stoddart",0.6
+295,2025-07-31,2025,15,19,"The Dead Bo-ats Society","Ryan Mattos","Jameel Saleem",0.62
+296,2025-07-31,2025,15,20,"Dad-urday Kite Fever","Brian Loschiavo","Scott Jacobson",0.51
+297,2025-08-07,2025,15,21,"Mr. Safebody","Chris Song","Steven Davis",0.68
+298,2025-08-14,2025,15,22,"Insomnibob","Ryan Mattos","Jon Schroeder",0.79
+299,2025-09-28,2025,16,1,"Grand Pre-Pre-Pre-Opening","Chris Song","Loren Bouchard & Nora Smith",0.63
+300,2025-10-05,2025,16,2,"'Til Death Do Us Art","Brian Loschiavo","Katie Crown",0.9
+301,2025-10-19,2025,16,3,"The Twinnening","Ryan Mattos","Kelvin Yu",1.17
+302,2025-10-26,2025,16,4,"The Skids in the Hall","Brian Loschiavo","Rich Rinaldi",0.67
+303,2025-11-02,2025,16,5,"The Secret Guardin'","Chris Song","Dan Fybel",0.77
+304,2025-11-09,2025,16,6,"Get Her to the Zeke","Ryan Mattos","Lizzie Molyneux-Logelin & Wendy Molyneux",1.19
+305,2025-11-23,2025,16,7,"Tube for Tina","Brian Loschiavo","Nora Smith & Holly Schlesinger",1.21
+306,2025-12-07,2025,16,8,"Les Lizárdables","Ryan Mattos","Steven Davis",NA
+307,2025-12-14,2025,16,9,"It's a Stunterful Life","Brian Loschiavo","Lindsey Stoddart",NA
+308,2025-12-28,2025,16,10,"Heist Things Are Heist","Chris Song","Scott Jacobson",NA
