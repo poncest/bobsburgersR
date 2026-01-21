@@ -5,3 +5,6 @@ README.html
 .Renviron
 .Rhistory
 
+renv/
+renv.lock
+.Rprofile
