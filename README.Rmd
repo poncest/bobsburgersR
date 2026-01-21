@@ -11,11 +11,11 @@ suppressPackageStartupMessages(library(ggplot2))
 suppressPackageStartupMessages(library(tidyr))
 ```
 
-# bobsburgersR <img src="img/bobsburgersR.png" align="right" height="240"/>
+# bobsburgersR <img src="man/figures/bobsburgersR.png" align="right" height="240"/>
 
 [![R-CMD-check](https://github.com/poncest/bobsburgersR/workflows/R-CMD-check/badge.svg)](https://github.com/poncest/bobsburgersR/actions) ![Lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A collection of datasets on the [Bob's Burgers](https://www.fox.com/bobs-burgers/) American animated sitcom. This package aims to provide easy access to data about the show, allowing for analysis of trends in ratings, character dialogue, and more. Included in the package are 2 datasets detailed below for seasons 1-14.
+A collection of datasets on the [Bob's Burgers](https://www.fox.com/bobs-burgers/) American animated sitcom. This package aims to provide easy access to data about the show, allowing for analysis of trends in ratings, character dialogue, and more. Included in the package are 2 datasets detailed below for seasons 1-16 (309 episodes).
 
 # Installation
 
@@ -28,34 +28,39 @@ devtools::install_github("poncest/bobsburgersR")
 
 # Data Dictionary
 
-## `imdb_wikipedia_data`
+## `episode_data`
 
 | Column Name | Data Type | Description |
-|-------------------|------------------|-----------------------------------|
-| `episode_overall` | `dbl` | The overall episode number in the entire Bob's Burgers series (starting from episode 1). |
-| `imdb_aired_date` | `date` | The date the episode originally aired, according to IMDb. Format: YYYY-MM-DD. |
+|----|----|----|
+| `episode_overall` | `dbl` | The overall episode number in the entire Bob's Burgers series (1-309). |
+| `season` | `dbl` | The season number (1-16). |
+| `episode` | `dbl` | The episode number within the season. |
+| `title` | `chr` | The title of the episode. |
+| `aired_date` | `date` | The date the episode originally aired. Format: YYYY-MM-DD. |
 | `year` | `dbl` | The year the episode aired. |
-| `season` | `dbl` | The season number of the episode within the Bob's Burgers TV show. |
-| `episode` | `dbl` | The episode number within the specific season of the Bob's Burgers TV show. |
-| `imdb_title` | `chr` | The title of the episode, as listed on IMDb. |
-| `rating` | `dbl` | The IMDb user rating of the episode (on a scale from 1 to 10). |
-| `synopsis` | `chr` | A brief description or synopsis of the episode, summarizing the key plot points, according to IMDb. |
-| `wikipedia_directed_by` | `chr` | The name(s) of the director(s) of the episode, as listed on Wikipedia. |
-| `wikipedia_written_by` | `chr` | The name(s) of the writer(s) of the episode, as listed on Wikipedia. |
-| `wikipedia_viewers` | `dbl` | The number of US viewers (in millions) who watched the episode when it first aired, according to Wikipedia. |
+| `rating` | `dbl` | The TMDB community rating of the episode (scale 1-10). |
+| `votes` | `dbl` | The number of TMDB user votes for the episode rating. |
+| `synopsis` | `chr` | A brief description of the episode's plot from TMDB. |
+| `directed_by` | `chr` | The name(s) of the director(s), from Wikipedia. |
+| `written_by` | `chr` | The name(s) of the writer(s), from Wikipedia. |
+| `us_viewers_millions` | `dbl` | The number of US viewers (in millions) who watched the episode when it first aired, from Wikipedia. |
+| `runtime` | `dbl` | Episode runtime in minutes. |
+| `tmdb_id` | `dbl` | The unique TMDB episode identifier. |
 
 ### Notes:
 
--   **IMDb vs. Wikipedia**: `imdb_aired_date`, `imdb_title`, `rating`, and `synopsis` are from IMDb, while `wikipedia_directed_by`, `wikipedia_written_by`, and `wikipedia_viewers` are from Wikipedia. Both sources provide complementary data for the same episodes.
+-   **Data Sources**: Episode ratings and synopses are from [TMDB](https://www.themoviedb.org/) (The Movie Database). Director, writer, and viewership data are from Wikipedia.
 
--   Viewer numbers (`wikipedia_viewers`) represent the viewership in millions, so 9.38 means 9.38 million viewers.
+-   **Rating Change (v0.2.0)**: Prior to v0.2.0, ratings were sourced from IMDb. TMDB and IMDb ratings are from different user communities and are not directly comparable across package versions.
+
+-   Viewer numbers (`us_viewers_millions`) represent the viewership in millions, so 9.38 means 9.38 million viewers.
 
 ## `transcript_data`
 
 | Column Name | Data Type | Description |
-|-------------------|-------------------|----------------------------------|
-| `season` | `dbl` | The season number in which the episode is part of the Bob's Burgers TV show. |
-| `episode` | `dbl` | The episode number within the specific season of Bob's Burgers. |
+|----|----|----|
+| `season` | `dbl` | The season number (1-16). |
+| `episode` | `dbl` | The episode number within the season. |
 | `title` | `chr` | The title of the episode in which the dialogue line appears. |
 | `line` | `dbl` | The line number of the dialogue in the episode (the order in which it appears). |
 | `raw_text` | `chr` | The original raw text of the dialogue, possibly including formatting or special characters. |
@@ -69,23 +74,23 @@ devtools::install_github("poncest/bobsburgersR")
 
 # Examples
 
-## IMDb Ratings by Season
+## TMDB Ratings by Season
 
-This plot shows the distribution of IMDb ratings for each season, with individual episode ratings represented as jittered points.
+This plot shows the distribution of TMDB ratings for each season, with individual episode ratings represented as jittered points.
 
 ```{r, warning=FALSE}
-data("imdb_wikipedia_data")
-head(imdb_wikipedia_data)
+data("episode_data")
+head(episode_data)
 
-# Box Plot with Jitter: IMDb Ratings by Season
+# Box Plot with Jitter: TMDB Ratings by Season
 
-ggplot(imdb_wikipedia_data, aes(x = as.factor(season), y = rating)) +
-  geom_boxplot(fill = "lightblue", color = "black", outlier.shape = NA) + # Avoid duplicate points by not showing boxplot outliers
+ggplot(episode_data, aes(x = as.factor(season), y = rating)) +
+  geom_boxplot(fill = "lightblue", color = "black", outlier.shape = NA) + 
   geom_point(alpha = 0.6, color = "darkred", position = position_jitter(seed = 42, width = 0.2)) +
   labs(
-    title = "IMDb Ratings by Season",
+    title = "TMDB Ratings by Season",
     x = "Season",
-    y = "IMDb Rating"
+    y = "TMDB Rating"
   ) +
   theme_minimal()
 ```
@@ -126,6 +131,6 @@ If there is any data you would like to include or if you have suggestions, pleas
 
 # References
 
-1.  IMDb: [Episodes List](https://www.imdb.com/title/tt1561755/episodes/?season=1)
+1.  TMDB: [Bob's Burgers](https://www.themoviedb.org/tv/32726-bob-s-burgers)
 2.  Wikipedia (episodes): [List of Bob's Burgers episodes](https://en.wikipedia.org/wiki/List_of_Bob%27s_Burgers_episodes#Episodes)
 3.  Springfield! Springfield! (episode scripts): [Springfield Springfield - Bob's Burgers scripts](https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=bobs-burgers)

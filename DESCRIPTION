@@ -1,12 +1,15 @@
 Package: bobsburgersR
 Type: Package
 Title: Bob's Burgers Datasets for Data Visualization
-Version: 0.0.0.9000
+Version: 0.2.0
 Authors@R: 
     person("Steven", "Ponce",  email = "steven_ponce@yahoo.com", role = c("aut", "cre"),
            comment = c(ORCID = 0000-0003-4457-1633))
 Maintainer: Steven Ponce <steven_ponce@yahoo.com>
-Description: This package provides scraped data for exploring and visualizing episodes, ratings, and transcripts of the TV show Bob's Burgers.
+Description: Provides episode metadata and transcripts from the TV show Bob's 
+    Burgers for data exploration and visualization. Includes ratings from TMDB 
+    (The Movie Database), air dates, synopses, director/writer credits, and 
+    full episode transcripts. Covers seasons 1-16 (309 episodes).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

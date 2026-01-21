@@ -3,25 +3,46 @@
 \docType{data}
 \name{transcript_data}
 \alias{transcript_data}
-\title{Transcript Data from Bob's Burgers}
+\title{Bob's Burgers Transcript Data}
 \format{
-A data frame with 181,031 rows and 6 variables:
+A data frame with 204,027 rows and 6 variables:
 \describe{
-\item{season}{The season number in which the episode is part of the Bob's Burgers TV show.}
-\item{episode}{The episode number within the specific season of Bob's Burgers.}
-\item{title}{The title of the episode in which the dialogue line appears.}
-\item{line}{The line number of the dialogue (the order in which it appears).}
-\item{raw_text}{The original raw text of the dialogue, possibly including formatting or special characters.}
-\item{dialogue}{Cleaned-up version of the \code{raw_text}, containing the actual dialogue spoken by the characters.}
+\item{season}{The season number (1-16).}
+\item{episode}{The episode number within the season.}
+\item{title}{The title of the episode.}
+\item{line}{The line number of the dialogue (order of appearance within episode).}
+\item{raw_text}{The original text from the transcript, including formatting and stage directions.}
+\item{dialogue}{Cleaned version of \code{raw_text} with stage directions and formatting removed.}
 }
 }
 \source{
-Springfield! Springfield!
+Springfield! Springfield! (\url{https://www.springfieldspringfield.co.uk/})
 }
 \usage{
 transcript_data
 }
 \description{
-A dataset containing the transcripts of Bob's Burgers episodes.
+A dataset containing the transcripts of Bob's Burgers episodes, including
+dialogue and stage directions.
+}
+\details{
+Transcripts include both spoken dialogue and stage directions (actions,
+scene descriptions). The \code{raw_text} column preserves the original
+formatting, while \code{dialogue} contains cleaned text suitable for
+text analysis.
+}
+\examples{
+# Load the data
+data(transcript_data)
+
+# View structure
+str(transcript_data)
+
+# Count lines per season
+table(transcript_data$season)
+
+# View first few lines of dialogue
+head(transcript_data$dialogue, 20)
+
 }
 \keyword{datasets}
