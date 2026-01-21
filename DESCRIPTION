@@ -17,11 +17,6 @@ RoxygenNote: 7.3.1
 URL: https://github.com/poncest/bobsburgersR
 BugReports: https://github.com/poncest/bobsburgersR/issues
 Suggests: 
-    ggtext,
-    showtext,
-    skimr,
-    fuzzyjoin,
-    polite,
     testthat
 Config/testthat/edition: 3
 Depends: 
